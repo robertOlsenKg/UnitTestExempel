@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Add method" Url="html/71740c05-baf7-6262-8bfa-b1a6c9a6244b.htm" />
+  <HelpKINode Title="CMatte class">
+    <HelpKINode Title="CMatte Class" Url="html/b986d530-85c7-73ca-496c-3beb1ced6882.htm" />
+    <HelpKINode Title="constructor" Url="html/4b38cf89-d2e0-a493-77e5-67d1d104e4d6.htm" />
+    <HelpKINode Title="methods" Url="html/94cde4af-5546-90d9-e499-58d43dfaaa22.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CMatte.Add method" Url="html/71740c05-baf7-6262-8bfa-b1a6c9a6244b.htm" />
+  <HelpKINode Title="CMatte.CMatte constructor" Url="html/4b38cf89-d2e0-a493-77e5-67d1d104e4d6.htm" />
+  <HelpKINode Title="CMatte.Mult method" Url="html/8c3349c9-692f-f29b-eccb-2cacd7ea3c8b.htm" />
+  <HelpKINode Title="CMatte.Sub method" Url="html/2a3c8259-48ef-aaf8-9ad2-851f5e848378.htm" />
+  <HelpKINode Title="Dispose method" Url="html/44169779-af7c-d518-993e-fa9797029605.htm" />
+  <HelpKINode Title="Form1 class">
+    <HelpKINode Title="Form1 Class" Url="html/e5d0e14a-42a5-01d4-f5a2-6cff58f33729.htm" />
+    <HelpKINode Title="constructor" Url="html/1678e303-ad4d-1a78-2910-683127e40e24.htm" />
+    <HelpKINode Title="events" Url="html/8a250389-881a-59b8-f06d-0a4c250a8af4.htm" />
+    <HelpKINode Title="methods" Url="html/af3cfa8c-2f81-6ba7-d512-c26264a60902.htm" />
+    <HelpKINode Title="properties" Url="html/b4cce393-c904-6453-be8e-e36f6a1da99b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Form1.Dispose method" Url="html/44169779-af7c-d518-993e-fa9797029605.htm" />
+  <HelpKINode Title="Form1.Form1 constructor" Url="html/1678e303-ad4d-1a78-2910-683127e40e24.htm" />
+  <HelpKINode Title="Mult method" Url="html/8c3349c9-692f-f29b-eccb-2cacd7ea3c8b.htm" />
+  <HelpKINode Title="Sub method" Url="html/2a3c8259-48ef-aaf8-9ad2-851f5e848378.htm" />
+  <HelpKINode Title="TestUT namespace" Url="html/a2ed798c-583f-1c97-d7ba-e815a2d04e87.htm" />
+  <HelpKINode Title="TestUT.CMatte class" Url="html/b986d530-85c7-73ca-496c-3beb1ced6882.htm" />
+  <HelpKINode Title="TestUT.Form1 class" Url="html/e5d0e14a-42a5-01d4-f5a2-6cff58f33729.htm" />
+</HelpKI>
